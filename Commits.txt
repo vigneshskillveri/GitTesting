@@ -1,3 +1,5 @@
 first commmit
 
 Added feature A in main branch
+
+Added feature B in the feature branch
